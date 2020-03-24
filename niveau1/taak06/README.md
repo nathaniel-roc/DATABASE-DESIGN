@@ -1,4 +1,4 @@
-# Database-Design-TAAK-02
+# Database-Design-TAAK-04
 
 ## Wat zijn entiteiten en attributen
 
@@ -12,10 +12,10 @@ Je gaat een entiteit maken.
 > 3. [ ] Ik maak met LUCIDCHART een entiteit maken
 
 ## Opdracht
-1. Maak de entiteit student. Een student heeft een voornaam, achternaam, adres, huisnummer, postcode, woonplaats en geboortedatum.
+1. Maak de entiteit cijfer. Een cijfer heeft een cijfer, een studentnaam en een naam van een vak. Kan je zelf nog meer attributen bedenken?
    
 ## Eindresultaat
 
-een PNG/JPG met de entiteit student. Vergeet niet dit plaatje in te leveren.
+een PNG/JPG met de entiteit cijer. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
