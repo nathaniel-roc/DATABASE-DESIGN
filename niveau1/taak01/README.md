@@ -23,3 +23,4 @@ Bij de volgende taken ga je zelf entiteiten maken.
 Je weet nu wat een entiteit is en gaat deze nu zelf maken in de volgende opdrachten.
 
 ## Bronnen
+Boek: 
