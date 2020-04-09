@@ -1,49 +1,33 @@
-# MODULENAAM-TAAK-NR
+# Database-Design-TAAK-03
 
-> Bijvoorbeeld:  
-> PHP-Basic-Taak-01
-
-## Titel
-
-Geef de taak een pakkende titel.
-> Bijvoorbeeld:  
->
-> ## First Function
+## Normaliseren
 
 ## Uitleg
+Je gaat aan de hand van een overzicht een ERD maken
 
-Introducerende tekst. Uitleggen nut van de opdracht eventueel met praktijk voorbeelden.
-> Voorbeeld:  
-> Functies zijn een manier om je code onder te verdelen in logische blokken. Jij kan dan bepalen wanneer het blok code dat in een functie zit wordt uitegevoerd in plaats dat alle code in een script van boven naar beneden wordt uitgevoerd.
->
->Vooral als de hoeveelheid code toeneemt is het handig om goed na te denken hoe je de code kan scheiden zodat je niet telkens dezelfde code schrijft.
->  
-> In deze les leer je hoe je een aangeleverde functie aanroept zodat de code die in die functie staat wordt uitgevoerd.
+
+## Uitleg
+Bij de eerste taak heb ik uitgelegd hoe je normaliseert. Bij deze taak ga ik het nog een keer uitleggen met een ander voorbeeld. Het is nu de bedoeling dat je meedoet.
+Open excel en plak de afbeelding daarin. 
 
 ## Leerdoelen
-
-Eén of meerdere leerdoelen die het liefst SMART zijn geformuleerd en slaan op de inhoud van deze taak.  
-> Voorbeeld:
->
-> 1. [ ] Ik kan met PHP een functie aanspreken
+> 1. [ ] Ik kan een overzicht normaliseren
 
 ## Opdracht
 
-Duidelijke tekst die uitlegd wat de student moet precies moet doen. Eventueel onderverdeelt.
-> Voorbeeld:  
->  
-> 1. Schrijf code in `index.php` die de functie genaamd `mijnEerstefunctie` aanroept.
-> 2. Pas de functie `mijnEersteFunctie` zo aan dat aan de tekst die getoond wordt in je browser een uitroepteken wordt toegevoegd.
+Normaliseer nu zelf oefening3.png 
+vergeet de 4 stappen niet.
+Let op: een aantal gegevens zijn berekende gegevens.
+
+Maak aan het eind de ERD.
 
 ## Eindresultaat
 
-Duidelijk maken hoe het succesvol maken van de taak eruit ziet. Dit kan tekstueel of liever als mogelijk met gebruik van screenshots / filmpjes  
-> Voorbeeld:  
-> Als je de functie goed uitvoert wordt de volgende tekst getoond in je browser: "functie uitgevoerd"  
+Je hebt een ERD gemaakt van een overzicht
+Je hebt jouw ERD en jouw normalisatie (screenshots) ingeleverd.
 
 ## Bronnen
-
-Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
->[W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)  
->[Jaap van der Veen - PHP Basiscursus Les3: Functies](https://phpbasis.jaapvdveen.nl/basiscursus-php/les-3-inleiding-functies/)  
+Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2
+Lucidchart(2): https://www.youtube.com/watch?v=-CuY5ADwn24&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=1
+Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

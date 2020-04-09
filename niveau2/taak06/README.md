@@ -1,4 +1,4 @@
-# Database-Design-TAAK-03
+# Database-Design-TAAK-06
 
 ## Relaties en sleutels
 
@@ -23,3 +23,6 @@ In die band zitten spelers. Een speler heeft een voornaam, achternaam en speelt 
 een PNG/JPG van festival en band en speler. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
+Powerpoint: niv 2 - sleutels en relaties.pdf
+Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

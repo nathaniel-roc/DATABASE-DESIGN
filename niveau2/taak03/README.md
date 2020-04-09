@@ -22,3 +22,6 @@ Je gaat relaties tussen 2 entiteiten maken
 een PNG/JPG van student-cijfer. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
+Powerpoint: niv 2 - sleutels en relaties.pdf
+Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

@@ -1,4 +1,4 @@
-# Database-Design-TAAK-02
+# Database-Design-TAAK-01
 
 ## Wat zijn relaties en sleutels
 
@@ -15,11 +15,13 @@ Bij de opdrachten ga je kleine databasejes maken met 2 of 3 tabellen.
 > 4. [ ] Ik maak extra sleutels aan bij entiteiten
 
 ## Opdracht
-1. Bekijk de video. De powerpoint is als naslagwerk bedoeld. 
+1. Bekijk de video: https://web.microsoftstream.com/video/c4c62660-1c4f-4c89-b09b-948cf7559c86?list=studio . De powerpoint is als naslagwerk bedoeld. 
    
 ## Eindresultaat
 
 De video is bekeken
 
 ## Bronnen
-Boek: 
+Powerpoint: niv 2 - sleutels en relaties.pdf
+Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

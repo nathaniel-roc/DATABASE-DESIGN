@@ -1,4 +1,4 @@
-# Database-Design-TAAK-02
+# Database-Design-TAAK-03
 
 ## Wat zijn entiteiten en attributen
 
@@ -19,3 +19,6 @@ Je gaat een entiteit maken.
 een PNG/JPG met de entiteit docent. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
+Powerpoint: niv 1 - ERD - entiteiten.pdf
+Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 
