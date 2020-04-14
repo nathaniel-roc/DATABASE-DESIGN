@@ -1,4 +1,4 @@
-# Database-Design-TAAK-03
+# Database-Design-TAAK-05
 
 ## Relaties en sleutels
 
@@ -23,3 +23,7 @@ Een film heeft een relatie met een regisseur. Een film heeft een naam, een categ
 een PNG/JPG van film en regisseur. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
+Powerpoint: niv 2 - sleutels en relaties.pdf
+Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 
+ 
