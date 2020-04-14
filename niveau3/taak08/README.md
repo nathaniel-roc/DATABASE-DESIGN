@@ -16,7 +16,7 @@ Je kan natuurlijk meteen meedoen.
 
 ## Opdracht
 
-Doe mee met de video
+Doe mee met de video https://web.microsoftstream.com/video/c1417842-1b06-4db1-bf4f-d33e42f0f181 
 
 Maak aan het eind de ERD.
 
