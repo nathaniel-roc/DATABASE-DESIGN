@@ -1,24 +1,22 @@
-# Database-Design-TAAK-07
+# Database-Design-TAAK-08
 
 ## Normaliseren
 
 ## Uitleg
-Je gaat aan de hand van een overzicht een ERD maken
+Je gaat aan de hand van meerdere overzichten een ERD maken
 
 
 ## Uitleg
-Bij de eerste taak heb ik uitgelegd hoe je normaliseert. Bij deze taak ga ik het nog een keer uitleggen met een ander voorbeeld. Het is nu de bedoeling dat je meedoet.
-Open excel en plak de afbeelding daarin. 
+Nu is er niet 1 overzicht maar zijn er 2 overzichten. Deze moeten samen 1 ERD worden.
+In het filmpje wordt uitgelegd hoe je dat doet
+Je kan natuurlijk meteen meedoen.
 
 ## Leerdoelen
-> 1. [ ] Ik kan een overzicht normaliseren
+> 1. [ ] Ik kan meerdere overzichten normaliseren tot 1 ERD
 
 ## Opdracht
 
-Normaliseer nu zelf oefening7.png 
-vergeet de 4 stappen niet.
-Let op de maat. welk datatype zou je daarbij gebruiken? 
-er zit een klein foutje in het klantnummer. Dat moet natuurlijk geen komma getal zijn.
+Doe mee met de video
 
 Maak aan het eind de ERD.
 
