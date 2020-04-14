@@ -7,8 +7,7 @@ Je gaat aan de hand van een overzicht een ERD maken
 
 
 ## Uitleg
-Bij de eerste taak heb ik uitgelegd hoe je normaliseert. Bij deze taak ga ik het nog een keer uitleggen met een ander voorbeeld. Het is nu de bedoeling dat je meedoet.
-Open excel en plak de afbeelding daarin. 
+Normaliseer het overzicht
 
 ## Leerdoelen
 > 1. [ ] Ik kan een overzicht normaliseren
@@ -17,8 +16,8 @@ Open excel en plak de afbeelding daarin.
 
 Normaliseer nu zelf oefening5.png 
 vergeet de 4 stappen niet.
-Let op de maat. welk datatype zou je daarbij gebruiken? 
-er zit een klein foutje in het klantnummer. Dat moet natuurlijk geen komma getal zijn.
+Deze opdracht is iets lastiger. Je moet er zelf gegevens bij bedenken. Wie boekt er een filmkaartje?
+En hoeveel zou 1 kaartje kosten?
 
 Maak aan het eind de ERD.
 

@@ -1,4 +1,4 @@
-# Database-Design-TAAK-07
+# Database-Design-TAAK-05
 
 ## Normaliseren
 
@@ -15,9 +15,10 @@ Open excel en plak de afbeelding daarin.
 
 ## Opdracht
 
-Normaliseer nu zelf oefening7.png 
+Normaliseer nu zelf oefening5.png 
 vergeet de 4 stappen niet.
-De naam van de passengier is dan wel zwart gemaakt maar een passengier heeft een voor en achternaam
+Let op de maat. welk datatype zou je daarbij gebruiken? 
+er zit een klein foutje in het klantnummer. Dat moet natuurlijk geen komma getal zijn.
 
 Maak aan het eind de ERD.
 

@@ -7,18 +7,17 @@ Je gaat aan de hand van een overzicht een ERD maken
 
 
 ## Uitleg
-Bij de eerste taak heb ik uitgelegd hoe je normaliseert. Bij deze taak ga ik het nog een keer uitleggen met een ander voorbeeld. Het is nu de bedoeling dat je meedoet.
-Open excel en plak de afbeelding daarin. 
+Normaliseer het overzicht
 
 ## Leerdoelen
 > 1. [ ] Ik kan een overzicht normaliseren
 
 ## Opdracht
+Open excel en plak de afbeelding daarin. 
 
 Normaliseer nu zelf oefening6.png 
 vergeet de 4 stappen niet.
-Deze opdracht is iets lastiger. Je moet er zelf gegevens bij bedenken. Wie boekt er een filmkaartje?
-En hoeveel zou een kaartje kosten?
+De naam van de passengier is dan wel zwart gemaakt maar een passengier heeft een voor- en achternaam
 
 Maak aan het eind de ERD.
 
