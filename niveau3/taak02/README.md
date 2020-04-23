@@ -18,12 +18,14 @@ Open excel en plak de afbeelding daarin.
 Bekijk de video: https://web.microsoftstream.com/video/856f3111-8f95-440c-8434-573e5063eb17 
 en doe zelf mee. Zet na elke stap de video op pauze en probeer het eerst zelf.
 Kijk dan naar de uitwerking en pas eventueel jouw schema aan.
-Het gebruikte overzicht staat in ![oefening 2](oefening 2.png) 
+Gebruik het onderstaande  overzicht. 
+> <img src="oefening 2.png">
+
 Maak aan het eind de ERD.
 
 ## Eindresultaat
 
-Je hebt een ERD gemaakt van een overzicht
+Je hebt een ERD gemaakt van een overzicht.
 Je hebt jouw ERD en jouw normalisatie (screenshots) ingeleverd.
 
 ## Bronnen
