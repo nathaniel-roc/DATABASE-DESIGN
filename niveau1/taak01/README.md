@@ -23,6 +23,6 @@ Bij de volgende taken ga je zelf entiteiten maken.
 Je weet nu wat een entiteit is en gaat deze nu zelf maken in de volgende opdrachten.
 
 ## Bronnen
-Powerpoint: niv 1 - ERD - entiteiten.pdf
-Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
-Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 
+- Powerpoint: <a href="../taak01/niv 1 - ERD - entiteiten.pdf">niv 1 - ERD - entiteiten</a>
+- Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+- Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

@@ -26,12 +26,17 @@ Geef in het ERD aan welk type de velden zijn en indien van toepassing de lengte 
 Leg de juiste relaties.
 Geef duidelijk aan wat sleutels zijn (primary en foreign).
 
+> <img src="eindopdracht a.png"> 
+> <img src="eindopdracht b.png"> 
+
 
 ## Eindresultaat
 Een goed genormaliseerd ERD
 
 ## Bronnen
-Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2
-Lucidchart(2): https://www.youtube.com/watch?v=-CuY5ADwn24&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=1
-Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
-Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 
+> Video:https://web.microsoftstream.com/video/c1417842-1b06-4db1-bf4f-d33e42f0f181 
+> Powerpoint: <a href="niv 3 - taak 8 - normaliseren met twee.pdf">niv 3 - taak 8 - normaliseren met twee</a>
+> Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2
+> Lucidchart(2): https://www.youtube.com/watch?v=-CuY5ADwn24&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=1
+> Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+> Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

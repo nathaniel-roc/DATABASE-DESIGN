@@ -23,6 +23,6 @@ Een cijfer is voor één vak. Een vak heeft een titel, omschrijving en leerjaar.
 een PNG/JPG van cijfer-vak. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
-Powerpoint: niv 2 - sleutels en relaties.pdf
-Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
-Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 
+- Powerpoint: <a href="../taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties.pdf</a>
+- Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
+- Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

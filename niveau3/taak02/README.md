@@ -30,7 +30,7 @@ Je hebt jouw ERD en jouw normalisatie (screenshots) ingeleverd.
 
 ## Bronnen
 > Video: https://web.microsoftstream.com/video/856f3111-8f95-440c-8434-573e5063eb17 
-> Powerpoint: normaliseren 2.pdf
+> Powerpoint: <a href="niv 3 - taak 2 - normaliseren.pdf">niv 3 - taak 2 - normaliseren</a>
 > Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2
 > Lucidchart(2): https://www.youtube.com/watch?v=-CuY5ADwn24&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=1
 > Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
