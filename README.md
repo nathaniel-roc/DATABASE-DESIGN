@@ -27,7 +27,7 @@ Als eindopdracht kan je op basis van een aantal overzichten een database ontwerp
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau2/taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/niv 3 - taak 1 - normaliseren.pdf">niv 3 - taak 1 - normaliseren</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/niv 3 - taak 2 - normaliseren.pdf">niv 3 - taak 2 - normaliseren</a>  
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/niv 3 - taak 8 - normaliseren met twee.pdf">niv 3 - taak 8 - normaliseren met twee</a>  
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak08/niv 3 - taak 8 - normaliseren met twee.pdf">niv 3 - taak 8 - normaliseren met twee</a>  
 - Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2  
 - Lucidchart(2): https://www.youtube.com/watch?v=-CuY5ADwn24&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=1  
 - Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111  
