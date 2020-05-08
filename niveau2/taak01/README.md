@@ -23,6 +23,7 @@ Bij de opdrachten ga je kleine databasejes maken met 2 of 3 tabellen.
 De video is bekeken
 
 ## Bronnen
-- Powerpoint: <a href="niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties.pdf</a>
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau1/taak01/niv 1 - ERD - entiteiten.pdf">niv 1 - ERD - entiteiten</a>  
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau2/taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties</a>  
 - Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
 - Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 

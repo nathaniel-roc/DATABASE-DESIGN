@@ -23,6 +23,7 @@ Een film heeft een relatie met een regisseur. Een film heeft een naam, een categ
 een PNG/JPG van film en regisseur. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
-- Powerpoint: <a href="../taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties.pdf</a>
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau1/taak01/niv 1 - ERD - entiteiten.pdf">niv 1 - ERD - entiteiten</a>  
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau2/taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties</a>  
 - Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111
 - Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2 
