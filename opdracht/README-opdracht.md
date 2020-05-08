@@ -36,6 +36,8 @@ Een goed genormaliseerd ERD
 ## Bronnen
 - Video: https://web.microsoftstream.com/video/274b27ea-4ce1-4158-8a97-f94811095339  
 - Video: https://web.microsoftstream.com/video/c1417842-1b06-4db1-bf4f-d33e42f0f181  
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau1/taak01/niv 1 - ERD - entiteiten.pdf">niv 1 - ERD - entiteiten</a>  
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau2/taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/niv 3 - taak 1 - normaliseren.pdf">niv 3 - taak 1 - normaliseren</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/niv 3 - taak 2 - normaliseren.pdf">niv 3 - taak 2 - normaliseren</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/niv 3 - taak 8 - normaliseren met twee.pdf">niv 3 - taak 8 - normaliseren met twee</a>  
