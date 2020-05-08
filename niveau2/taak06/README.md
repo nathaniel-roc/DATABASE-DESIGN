@@ -14,7 +14,7 @@ Je gaat relaties tussen 2 entiteiten maken
 ## Opdracht
 Op een festival treden bands op. Een festival heeft een naam, locatie, startdatum, duur, genre. Een band heeft een naam, soort muziek.
 In die band zitten spelers. Een speler heeft een voornaam, achternaam en speelt één instrument. 
-1. Maak de 2 entiteiten (met attributen) en teken de relaties. 
+1. Maak de 3 entiteiten (met attributen) en teken de relaties. 
 2. Maak de primary keys en de foreign keys
    
    
