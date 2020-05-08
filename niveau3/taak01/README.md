@@ -17,7 +17,8 @@ Vaak begint een database bij een overzicht. Een klant wil bepaalde informatie zi
 Bekijk de video https://web.microsoftstream.com/video/274b27ea-4ce1-4158-8a97-f94811095339 
 en doe zelf mee. 
 Gebruik dit overzicht 
-> <img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/voorbeeld1.png">
+
+<img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/voorbeeld1.png">
 
 
 ## Eindresultaat
