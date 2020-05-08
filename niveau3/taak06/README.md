@@ -16,8 +16,10 @@ Normaliseer het overzicht
 Open excel en plak de afbeelding daarin. 
 
 Normaliseer nu zelf oefening 6
+
 <img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak06/oefening 6.png">
-vergeet de 4 stappen niet.
+
+Vergeet de 4 stappen niet.
 De naam van de passengier is dan wel zwart gemaakt maar een passengier heeft een voor- en achternaam
 
 Maak aan het eind de ERD.

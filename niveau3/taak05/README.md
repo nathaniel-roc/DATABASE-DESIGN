@@ -15,8 +15,10 @@ Normaliseer het overzicht
 ## Opdracht
 
 Normaliseer nu zelf oefening 5
+
 <img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak05/oefening 5.png">
-vergeet de 4 stappen niet.
+
+Vergeet de 4 stappen niet.
 Deze opdracht is iets lastiger. Je moet er zelf gegevens bij bedenken. Wie boekt er een filmkaartje?
 En hoeveel zou 1 kaartje kosten?
 

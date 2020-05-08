@@ -19,7 +19,8 @@ Bekijk de video: https://web.microsoftstream.com/video/856f3111-8f95-440c-8434-5
 en doe zelf mee. Zet na elke stap de video op pauze en probeer het eerst zelf.
 Kijk dan naar de uitwerking en pas eventueel jouw schema aan.
 Gebruik het onderstaande  overzicht. 
-> <img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/oefening 2.png">
+
+<img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/oefening 2.png">
 
 Maak aan het eind de ERD.
 
