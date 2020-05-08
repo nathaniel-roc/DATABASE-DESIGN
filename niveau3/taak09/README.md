@@ -13,8 +13,9 @@ Je gaat aan de hand van meerdere overzichten een ERD maken
 
 ## Opdracht
 Normaliseer oefening 9a en oefening 9b
-> <img src="oefening 9a.png">
-> <img src="oefening 9b.png">
+>  <img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak09/oefening 9a.png">
+
+>  <img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak09/oefening 9b.png">
 
 Voeg het daarna samen tot 1 ERD
 
