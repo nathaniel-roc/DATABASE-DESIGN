@@ -19,9 +19,9 @@ Je kan natuurlijk meteen meedoen.
 Doe mee met de video https://web.microsoftstream.com/video/c1417842-1b06-4db1-bf4f-d33e42f0f181 
 Gebruik de onderstaande 2 overzichten.
 
-<img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak08/oefening 8a.png">
+<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak08/oefening 8a.png">
 
-<img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak08/oefening 8b.png">
+<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak08/oefening 8b.png">
 
 Maak aan het eind de ERD.
 

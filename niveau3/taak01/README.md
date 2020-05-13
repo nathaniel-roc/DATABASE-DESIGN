@@ -18,7 +18,7 @@ Bekijk de video https://web.microsoftstream.com/video/274b27ea-4ce1-4158-8a97-f9
 en doe zelf mee. 
 Gebruik dit overzicht 
 
-<img src="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/voorbeeld1.png">
+<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/voorbeeld1.png">
 
 
 ## Eindresultaat
@@ -27,7 +27,7 @@ Je hebt een ERD gemaakt van een overzicht
 
 ## Bronnen 
 - Video: https://web.microsoftstream.com/video/274b27ea-4ce1-4158-8a97-f94811095339  
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/niv 3 - taak 1 - normaliseren.pdf">niv 3 - taak 1 - normaliseren</a>  
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/niv 3 - taak 1 - normaliseren.pdf" >niv 3 - taak 1 - normaliseren</a>  
 - Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2  
 - Lucidchart(2): https://www.youtube.com/watch?v=-CuY5ADwn24&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=1  
 - Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111  
