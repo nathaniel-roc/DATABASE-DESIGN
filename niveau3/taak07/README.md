@@ -17,7 +17,7 @@ Open excel en plak de afbeelding daarin.
 
 Normaliseer nu zelf oefening 7
 
-<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak07/oefening 7.png">
+<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/master/niveau3/taak07/oefening 7.png">
 
 Vergeet de 4 stappen niet.
 Let op de maat. welk datatype zou je daarbij gebruiken? 

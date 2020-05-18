@@ -26,8 +26,8 @@ Geef in het ERD aan welk type de velden zijn en indien van toepassing de lengte 
 Leg de juiste relaties.
 Geef duidelijk aan wat sleutels zijn (primary en foreign).
 
->  <img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/opdracht/eindopdracht a.png">
-> <img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/opdracht/eindopdracht b.png">
+>  <img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/master/opdracht/eindopdracht a.png">
+> <img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/master/opdracht/eindopdracht b.png">
 
 
 ## Eindresultaat

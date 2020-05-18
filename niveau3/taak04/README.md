@@ -17,7 +17,7 @@ Open excel en plak de afbeelding daarin.
 
 Normaliseer nu zelf oefening 4 
 
-<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak04/oefening 4.png">
+<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/master/niveau3/taak04/oefening 4.png">
 
 Vergeet de 4 stappen niet.
 Let op de prijs. Is de prijs per stuk of een totaalprijs?

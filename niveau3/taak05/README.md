@@ -16,7 +16,7 @@ Normaliseer het overzicht
 
 Normaliseer nu zelf oefening 5
 
-<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak05/oefening 5.png">
+<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/master/niveau3/taak05/oefening 5.png">
 
 Vergeet de 4 stappen niet.
 Deze opdracht is iets lastiger. Je moet er zelf gegevens bij bedenken. Wie boekt er een filmkaartje?

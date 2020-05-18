@@ -17,7 +17,7 @@ Open excel en plak de afbeelding daarin.
 
 Normaliseer nu zelf oefening 3
 
-<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak03/oefening 3.png">
+<img src="https://raw.githubusercontent.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/master/niveau3/taak03/oefening 3.png">
 
 Vergeet de 4 stappen niet.
 Let op: een aantal gegevens zijn berekende gegevens.
