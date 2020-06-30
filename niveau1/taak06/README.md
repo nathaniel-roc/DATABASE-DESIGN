@@ -16,7 +16,7 @@ Je gaat een entiteit maken.
    
 ## Eindresultaat
 
-een PNG/JPG met de entiteit cijer. Vergeet niet dit plaatje in te leveren.
+een PNG/JPG met de entiteit cijfer. Vergeet niet dit plaatje in te leveren.
 
 ## Bronnen
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau1/taak01/niv 1 - ERD - entiteiten.pdf">niv 1 - ERD - entiteiten</a>  
