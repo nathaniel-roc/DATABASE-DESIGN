@@ -32,4 +32,6 @@ Als eindopdracht kan je op basis van een aantal overzichten een database ontwerp
 - Lucidchart(2): https://www.youtube.com/watch?v=-CuY5ADwn24&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=1  
 - Boek: Applicatie en mediaontwikkelaar: pagina 101 tot en met 111  
 - Online uitleg: https://www.lucidchart.com/pages/nl/tutorial-database-structuur-en-ontwerp#section_2  
-
+- Video Normaliseren 1: https://web.microsoftstream.com/video/c4c62660-1c4f-4c89-b09b-948cf7559c86 
+- Video Normaliseren 2: https://web.microsoftstream.com/video/856f3111-8f95-440c-8434-573e5063eb17
+- Video Normaliseren met meer : https://web.microsoftstream.com/video/c1417842-1b06-4db1-bf4f-d33e42f0f181  

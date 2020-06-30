@@ -15,7 +15,7 @@ Open excel en plak de afbeelding daarin.
 
 ## Opdracht
 
-Bekijk de video: https://web.microsoftstream.com/video/856f3111-8f95-440c-8434-573e5063eb17 
+Bekijk de video: https://web.microsoftstream.com/video/856f3111-8f95-440c-8434-573e5063eb17
 en doe zelf mee. Zet na elke stap de video op pauze en probeer het eerst zelf.
 Kijk dan naar de uitwerking en pas eventueel jouw schema aan.
 Gebruik het onderstaande  overzicht. 
@@ -30,7 +30,6 @@ Je hebt een ERD gemaakt van een overzicht.
 Je hebt jouw ERD en jouw normalisatie (screenshots) ingeleverd.
 
 ## Bronnen
-- Video: https://web.microsoftstream.com/video/274b27ea-4ce1-4158-8a97-f94811095339  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/niv 3 - taak 1 - normaliseren.pdf">niv 3 - taak 1 - normaliseren</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/niv 3 - taak 2 - normaliseren.pdf">niv 3 - taak 2 - normaliseren</a>  
 - Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2  

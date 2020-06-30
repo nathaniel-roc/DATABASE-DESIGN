@@ -15,7 +15,8 @@ Bij de opdrachten ga je kleine databasejes maken met 2 of 3 tabellen.
 > 4. [ ] Ik maak extra sleutels aan bij entiteiten
 
 ## Opdracht
-1. Bekijk de video: https://web.microsoftstream.com/video/c4c62660-1c4f-4c89-b09b-948cf7559c86?list=studio . 
+1. Bekijk de video: 
+   https://web.microsoftstream.com/video/c4c62660-1c4f-4c89-b09b-948cf7559c86
 2. De powerpoint is als naslagwerk bedoeld. 
    
 ## Eindresultaat

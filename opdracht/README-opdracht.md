@@ -34,8 +34,10 @@ Geef duidelijk aan wat sleutels zijn (primary en foreign).
 Een goed genormaliseerd ERD
 
 ## Bronnen
-- Video: https://web.microsoftstream.com/video/274b27ea-4ce1-4158-8a97-f94811095339  
-- Video: https://web.microsoftstream.com/video/c1417842-1b06-4db1-bf4f-d33e42f0f181  
+
+- Video Normaliseren 1: https://web.microsoftstream.com/video/c4c62660-1c4f-4c89-b09b-948cf7559c86 
+- Video Normaliseren 2: https://web.microsoftstream.com/video/856f3111-8f95-440c-8434-573e5063eb17
+- Video Normaliseren met meer : https://web.microsoftstream.com/video/c1417842-1b06-4db1-bf4f-d33e42f0f181  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau1/taak01/niv 1 - ERD - entiteiten.pdf">niv 1 - ERD - entiteiten</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau2/taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/niv 3 - taak 1 - normaliseren.pdf">niv 3 - taak 1 - normaliseren</a>  

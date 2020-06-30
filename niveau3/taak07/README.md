@@ -31,7 +31,7 @@ Je hebt een ERD gemaakt van een overzicht
 Je hebt jouw ERD en jouw normalisatie (screenshots) ingeleverd.
 
 ## Bronnen
-- Video: https://web.microsoftstream.com/video/274b27ea-4ce1-4158-8a97-f94811095339  
+- Video Normaliseren 1: https://web.microsoftstream.com/video/c4c62660-1c4f-4c89-b09b-948cf7559c86 
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak01/niv 3 - taak 1 - normaliseren.pdf">niv 3 - taak 1 - normaliseren</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau3/taak02/niv 3 - taak 2 - normaliseren.pdf">niv 3 - taak 2 - normaliseren</a>  
 - Lucidchart(1): https://www.youtube.com/watch?v=QpdhBUYk7Kk&list=RDCMUCnd94o169CbOIJyiEUkTL2A&index=2  

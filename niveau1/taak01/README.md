@@ -16,7 +16,7 @@ Bij de volgende taken ga je zelf entiteiten maken.
 
 ## Opdracht
 1. Bekijk de video. De powerpoint is als naslagwerk bedoeld. 
-   https://web.microsoftstream.com/video/358c5910-3a80-4a83-943e-2098c4a033c8 
+   https://web.microsoftstream.com/video/358c5910-3a80-4a83-943e-2098c4a033c8   
    
 ## Eindresultaat
 
